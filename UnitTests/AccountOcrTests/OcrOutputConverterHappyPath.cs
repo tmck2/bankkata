@@ -1,9 +1,10 @@
 using Core.Modules;
+using Core.Modules.AccountOcrProcessor;
 using NUnit.Framework;
 
 namespace Tests
 {
-    public class HappyPathScenario
+    public class OcrOutputConverterHappyPath
     {
         [SetUp]
         public void Setup()
@@ -24,9 +25,9 @@ namespace Tests
         ]
         public string SuccessfullyConvertsOutputFromOcr(string line1, string line2, string line3, string line4)
         {
-            var sut = new AccountOcr();
+            var sut = new OcrOutputConverter();
 
-            return sut.AccountNumberFromOcrOutput(new [] { line1, line2, line3, line4});
+            return sut.AccountNumberFrom(new [] { line1, line2, line3, line4});
         }
     }
 }

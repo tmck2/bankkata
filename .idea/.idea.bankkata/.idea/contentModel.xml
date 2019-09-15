@@ -10,7 +10,11 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Core.csproj" t="IncludeRecursive" />
         <e p="Modules" t="Include">
-          <e p="AccountOcr.cs" t="Include" />
+          <e p="AccountOcrProcessor" t="Include">
+            <e p="OcrAccountValidator.cs" t="Include" />
+            <e p="OcrFileProcessor.cs" t="Include" />
+            <e p="OcrOutputConverter.cs" t="Include" />
+          </e>
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -23,7 +27,10 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="UnitTests" t="IncludeRecursive">
         <e p="AccountOcrTests" t="Include">
-          <e p="AccountOcrTests.cs" t="Include" />
+          <e p="OcrAccountValidatorTests.cs" t="Include" />
+          <e p="OcrFileProcessorHappyPath.cs" t="Include" />
+          <e p="OcrOutputConverterHappyPath.cs" t="Include" />
+          <e p="ProcessFileTest.txt" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">

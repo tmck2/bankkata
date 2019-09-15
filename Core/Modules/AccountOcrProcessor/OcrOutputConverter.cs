@@ -1,12 +1,16 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Core.Modules
+namespace Core.Modules.AccountOcrProcessor
 {
-    public class AccountOcr
+    public interface IOcrOutputConverter
     {
-        public string AccountNumberFromOcrOutput(string[] inputLines)
+        string AccountNumberFrom(string[] inputLines);
+    }
+    
+    public class OcrOutputConverter : IOcrOutputConverter
+    {
+        public string AccountNumberFrom(string[] inputLines)
         {
             // Get individual character cells of input
             var charCells = 
