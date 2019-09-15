@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95c9a96-014a-4cb3-b99b-962683994974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Core/Modules/AccountOcr.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Core.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Core.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/obj/UnitTests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/UnitTests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/obj/UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/UnitTests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.bankkata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.bankkata/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/AccountOcrTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,31 +13,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="345">
+              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
               <folding>
-                <marker date="1568506651686" expanded="true" signature="6:42" ph="..." />
-                <marker date="1568506651686" expanded="true" signature="59:608" ph="{...}" />
-                <marker date="1568506651686" expanded="true" signature="84:606" ph="{...}" />
-                <marker date="1568506651686" expanded="true" signature="134:154" ph="{...}" />
-                <marker date="1568506651686" expanded="true" signature="198:600" ph="{...}" />
+                <marker date="1568507206726" expanded="false" signature="6:42" ph="..." />
+                <marker date="1568507206726" expanded="true" signature="59:872" ph="{...}" />
+                <marker date="1568507206726" expanded="true" signature="96:870" ph="{...}" />
+                <marker date="1568507206726" expanded="true" signature="146:166" ph="{...}" />
+                <marker date="1568507206726" expanded="true" signature="176:421" ph="[...]" />
+                <marker date="1568507206726" expanded="true" signature="430:675" ph="[...]" />
+                <marker date="1568507206726" expanded="true" signature="745:864" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
-                <marker date="1568506676758" expanded="true" signature="22:172" ph="{...}" />
-                <marker date="1568506676758" expanded="true" signature="52:170" ph="{...}" />
-                <marker date="1568506676758" expanded="true" signature="121:164" ph="{...}" />
+                <marker date="1568506770537" expanded="true" signature="22:181" ph="{...}" />
+                <marker date="1568506770537" expanded="true" signature="52:179" ph="{...}" />
+                <marker date="1568506770537" expanded="true" signature="121:173" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -58,13 +52,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/UnitTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests.cs" />
         <option value="$PROJECT_DIR$/Core/Modules/AccountOcr.cs" />
+        <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +108,12 @@
               <item name="bankkata" type="24d0babc:SolutionExplorerModelNode" />
               <item name="UnitTests" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="bankkata" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UnitTests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AccountOcrTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568506038502</updated>
-      <workItem from="1568506039622" duration="640000" />
+      <workItem from="1568506039622" duration="1148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640000" />
+    <option name="totallyTimeSpent" value="1148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -166,6 +168,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
@@ -174,10 +177,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -216,28 +220,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-          <folding>
-            <marker date="1568506651686" expanded="true" signature="6:42" ph="..." />
-            <marker date="1568506651686" expanded="true" signature="59:608" ph="{...}" />
-            <marker date="1568506651686" expanded="true" signature="84:606" ph="{...}" />
-            <marker date="1568506651686" expanded="true" signature="134:154" ph="{...}" />
-            <marker date="1568506651686" expanded="true" signature="198:600" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding>
-            <marker date="1568506676758" expanded="true" signature="22:172" ph="{...}" />
-            <marker date="1568506676758" expanded="true" signature="52:170" ph="{...}" />
-            <marker date="1568506676758" expanded="true" signature="121:164" ph="{...}" />
+            <marker date="1568506770537" expanded="true" signature="22:181" ph="{...}" />
+            <marker date="1568506770537" expanded="true" signature="52:179" ph="{...}" />
+            <marker date="1568506770537" expanded="true" signature="121:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <marker date="1568507206726" expanded="false" signature="6:42" ph="..." />
+            <marker date="1568507206726" expanded="true" signature="59:872" ph="{...}" />
+            <marker date="1568507206726" expanded="true" signature="96:870" ph="{...}" />
+            <marker date="1568507206726" expanded="true" signature="146:166" ph="{...}" />
+            <marker date="1568507206726" expanded="true" signature="176:421" ph="[...]" />
+            <marker date="1568507206726" expanded="true" signature="430:675" ph="[...]" />
+            <marker date="1568507206726" expanded="true" signature="745:864" ph="{...}" />
           </folding>
         </state>
       </provider>
