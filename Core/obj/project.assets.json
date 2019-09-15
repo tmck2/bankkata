@@ -196,7 +196,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/anthonymckinney/.nuget/NuGet/NuGet.Config"
+        "/Users/anthonymckinney/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

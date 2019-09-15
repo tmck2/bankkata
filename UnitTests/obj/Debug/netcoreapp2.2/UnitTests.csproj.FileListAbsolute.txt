@@ -1,0 +1,17 @@
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.deps.json
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.runtimeconfig.json
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.runtimeconfig.dev.json
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.dll
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/UnitTests.pdb
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/Core.dll
+/Users/anthonymckinney/bankkata/UnitTests/bin/Debug/netcoreapp2.2/Core.pdb
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csprojAssemblyReference.cache
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csproj.CoreCompileInputs.cache
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.AssemblyInfoInputs.cache
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.AssemblyInfo.cs
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csproj.CopyComplete
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.dll
+/Users/anthonymckinney/bankkata/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.pdb
