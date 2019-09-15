@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95c9a96-014a-4cb3-b99b-962683994974" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.bankkata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.bankkata/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/AccountOcrTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Modules/AccountOcr.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Modules/AccountOcr.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/netstandard2.0/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/netstandard2.0/Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/netstandard2.0/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/netstandard2.0/Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/obj/Debug/netcoreapp2.2/UnitTests.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,33 +18,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+            <state relative-caret-position="54">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <marker date="1568507206726" expanded="false" signature="6:42" ph="..." />
-                <marker date="1568507206726" expanded="true" signature="59:872" ph="{...}" />
-                <marker date="1568507206726" expanded="true" signature="96:870" ph="{...}" />
-                <marker date="1568507206726" expanded="true" signature="146:166" ph="{...}" />
-                <marker date="1568507206726" expanded="true" signature="176:421" ph="[...]" />
-                <marker date="1568507206726" expanded="true" signature="430:675" ph="[...]" />
-                <marker date="1568507206726" expanded="true" signature="745:864" ph="{...}" />
+                <marker date="1568510526670" expanded="false" signature="6:42" ph="..." />
+                <marker date="1568510526670" expanded="true" signature="59:937" ph="{...}" />
+                <marker date="1568510526670" expanded="true" signature="96:935" ph="{...}" />
+                <marker date="1568510526670" expanded="true" signature="146:166" ph="{...}" />
+                <marker date="1568510526670" expanded="true" signature="176:417" ph="[...]" />
+                <marker date="1568510526670" expanded="true" signature="426:667" ph="[...]" />
+                <marker date="1568510526670" expanded="true" signature="779:929" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="1155">
+              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
               <folding>
-                <marker date="1568506770537" expanded="true" signature="22:181" ph="{...}" />
-                <marker date="1568506770537" expanded="true" signature="52:179" ph="{...}" />
-                <marker date="1568506770537" expanded="true" signature="121:173" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="6:66" ph="..." />
+                <marker date="1568510490968" expanded="true" signature="90:3168" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="120:3166" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="196:663" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="737:1018" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="785:1007" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1089:1203" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1317:3158" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1355:1481" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1538:1664" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1721:1847" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="1904:2030" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="2087:2213" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="2270:2396" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="2453:2579" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="2636:2762" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="2819:2945" ph="{...}" />
+                <marker date="1568510490968" expanded="true" signature="3002:3128" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -125,6 +145,12 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -150,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568506038502</updated>
-      <workItem from="1568506039622" duration="1148000" />
+      <workItem from="1568506039622" duration="4479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1148000" />
+    <option name="totallyTimeSpent" value="4479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,17 +197,17 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -220,30 +246,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs">
+    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="54">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <marker date="1568506770537" expanded="true" signature="22:181" ph="{...}" />
-            <marker date="1568506770537" expanded="true" signature="52:179" ph="{...}" />
-            <marker date="1568506770537" expanded="true" signature="121:173" ph="{...}" />
+            <marker date="1568510526670" expanded="false" signature="6:42" ph="..." />
+            <marker date="1568510526670" expanded="true" signature="59:937" ph="{...}" />
+            <marker date="1568510526670" expanded="true" signature="96:935" ph="{...}" />
+            <marker date="1568510526670" expanded="true" signature="146:166" ph="{...}" />
+            <marker date="1568510526670" expanded="true" signature="176:417" ph="[...]" />
+            <marker date="1568510526670" expanded="true" signature="426:667" ph="[...]" />
+            <marker date="1568510526670" expanded="true" signature="779:929" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/AccountOcrTests.cs">
+    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcr.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        <state relative-caret-position="1155">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
           <folding>
-            <marker date="1568507206726" expanded="false" signature="6:42" ph="..." />
-            <marker date="1568507206726" expanded="true" signature="59:872" ph="{...}" />
-            <marker date="1568507206726" expanded="true" signature="96:870" ph="{...}" />
-            <marker date="1568507206726" expanded="true" signature="146:166" ph="{...}" />
-            <marker date="1568507206726" expanded="true" signature="176:421" ph="[...]" />
-            <marker date="1568507206726" expanded="true" signature="430:675" ph="[...]" />
-            <marker date="1568507206726" expanded="true" signature="745:864" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="6:66" ph="..." />
+            <marker date="1568510490968" expanded="true" signature="90:3168" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="120:3166" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="196:663" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="737:1018" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="785:1007" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1089:1203" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1317:3158" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1355:1481" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1538:1664" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1721:1847" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="1904:2030" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="2087:2213" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="2270:2396" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="2453:2579" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="2636:2762" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="2819:2945" ph="{...}" />
+            <marker date="1568510490968" expanded="true" signature="3002:3128" ph="{...}" />
           </folding>
         </state>
       </provider>

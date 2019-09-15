@@ -10,23 +10,23 @@ namespace Tests
         {
         }
 
-        [TestCase(""+ 
-                "    _  _     _  _  _  _  _ " +
-                "  | _| _||_||_ |_   ||_||_|" +
-                "  ||_  _|  | _||_|  ||_| _|" +
+        [TestCase(""+
+                "    _  _     _  _  _  _  _ ",
+                "  | _| _||_||_ |_   ||_||_|",
+                "  ||_  _|  | _||_|  ||_| _|",
                 "                           ", ExpectedResult = "123456789")
         ]
-        [TestCase(""+ 
-                " _  _  _  _  _  _  _  _  _ " +
-                "| | _| _||_||_ |_   || ||_|" +
-                "|_||_  _|  | _| _|  ||_||_|" +
+        [TestCase(""+
+                " _  _  _  _  _  _  _  _  _ ",
+                "| | _| _||_||_ |_   || ||_|",
+                "|_||_  _| _| _| _|  ||_||_|",
                 "                           ", ExpectedResult = "023955708")
         ]
-        public string SuccessfullyConvertsOutputFromOcr(string input)
+        public string SuccessfullyConvertsOutputFromOcr(string line1, string line2, string line3, string line4)
         {
             var sut = new AccountOcr();
 
-            return sut.AccountNumberFromOcrOutput(input);
+            return sut.AccountNumberFromOcrOutput(new [] { line1, line2, line3, line4});
         }
     }
 }
