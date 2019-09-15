@@ -19,7 +19,7 @@ namespace Core.Modules.AccountOcrProcessor
                     .Select(ix => GetCharCell(inputLines, ix));
                 
             // Look up digit for each cell
-            var digits = charCells.Select(cell => OcrToIntMapping.FirstOrDefault(kv => MatchCell(kv.Key, cell)).Value);
+            var digits = charCells.Select(cell => OcrToIntMapping.FirstOrDefault(kv => MatchCell(kv.Key, cell)).Value ?? "?");
                 
             return string.Concat(digits);
         }

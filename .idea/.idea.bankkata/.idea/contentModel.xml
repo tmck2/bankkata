@@ -30,6 +30,7 @@
           <e p="OcrAccountValidatorTests.cs" t="Include" />
           <e p="OcrFileProcessorHappyPath.cs" t="Include" />
           <e p="OcrOutputConverterHappyPath.cs" t="Include" />
+          <e p="OcrOutputConverterIllegibleCells.cs" t="Include" />
           <e p="ProcessFileTest.txt" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
