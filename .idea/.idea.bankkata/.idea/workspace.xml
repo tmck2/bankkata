@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95c9a96-014a-4cb3-b99b-962683994974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrOutputConverterIllegibleCells.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +31,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="234">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
               <folding>
-                <marker date="1568514926657" expanded="true" signature="6:79" ph="..." />
-                <marker date="1568514926657" expanded="true" signature="96:850" ph="{...}" />
-                <marker date="1568514926657" expanded="true" signature="141:848" ph="{...}" />
-                <marker date="1568514926657" expanded="true" signature="198:842" ph="{...}" />
-                <marker date="1568514926657" expanded="true" signature="254:587" ph="{...}" />
+                <marker date="1568515786408" expanded="true" signature="6:93" ph="..." />
+                <marker date="1568515786408" expanded="true" signature="110:1232" ph="{...}" />
+                <marker date="1568515786408" expanded="true" signature="155:1230" ph="{...}" />
+                <marker date="1568515786408" expanded="true" signature="212:1224" ph="{...}" />
+                <marker date="1568515786408" expanded="true" signature="268:942" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -61,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrOutputConverterIllegibleCells.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <marker date="1568515177299" expanded="true" signature="6:62" ph="..." />
                 <marker date="1568515177299" expanded="true" signature="79:662" ph="{...}" />
@@ -80,28 +81,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
-                <marker date="1568512308304" expanded="true" signature="6:52" ph="..." />
-                <marker date="1568512308304" expanded="true" signature="96:3308" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="139:206" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="269:3306" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="336:803" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="877:1158" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="925:1147" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="1229:1343" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="1457:3298" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="1495:1621" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="1678:1804" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="1861:1987" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2044:2170" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2227:2353" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2410:2536" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2593:2719" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2776:2902" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="2959:3085" ph="{...}" />
-                <marker date="1568512308304" expanded="true" signature="3142:3268" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="6:52" ph="..." />
+                <marker date="1568515363399" expanded="true" signature="96:3315" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="139:206" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="269:3313" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="336:810" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="884:1165" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="932:1154" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="1236:1350" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="1464:3305" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="1502:1628" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="1685:1811" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="1868:1994" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2051:2177" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2234:2360" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2417:2543" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2600:2726" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2783:2909" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="2966:3092" ph="{...}" />
+                <marker date="1568515363399" expanded="true" signature="3149:3275" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -119,15 +120,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="405">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
               <folding>
-                <marker date="1568512840054" expanded="true" signature="6:69" ph="..." />
-                <marker date="1568512840054" expanded="true" signature="113:809" ph="{...}" />
-                <marker date="1568512840054" expanded="true" signature="149:807" ph="{...}" />
-                <marker date="1568512840054" expanded="true" signature="288:356" ph="{...}" />
-                <marker date="1568512840054" expanded="true" signature="429:801" ph="{...}" />
-                <marker date="1568512840054" expanded="true" signature="623:790" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="6:83" ph="..." />
+                <marker date="1568515674696" expanded="true" signature="127:1447" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="163:1445" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="406:524" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="612:1439" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="806:1428" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="998:1107" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="1168:1284" ph="{...}" />
+                <marker date="1568515674696" expanded="true" signature="1305:1414" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -193,14 +197,14 @@
         <option value="$PROJECT_DIR$/Core/Modules/OcrOutputConverter.cs" />
         <option value="$PROJECT_DIR$/Core/Modules/OcrFileProcessor.cs" />
         <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/HappyPathScenario.cs" />
-        <option value="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs" />
         <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrOutputConverterHappyPath.cs" />
-        <option value="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs" />
         <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/ProcessFileTest.txt" />
         <option value="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrAccountValidator.cs" />
-        <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs" />
         <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrAccountValidatorTests.cs" />
         <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrOutputConverterIllegibleCells.cs" />
+        <option value="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs" />
+        <option value="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs" />
+        <option value="$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs" />
       </list>
     </option>
   </component>
@@ -303,12 +307,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568506038502</updated>
-      <workItem from="1568506039622" duration="9099000" />
+      <workItem from="1568506039622" duration="9695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9099000" />
+    <option name="totallyTimeSpent" value="9695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,16 +325,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Change Signature" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Performance Profiler" />
@@ -362,19 +367,6 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs</url>
-          <line>28</line>
-          <properties documentPath="$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs" initialLine="28">
-            <startOffsets>
-              <option value="900" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1148" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -407,49 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <marker date="1568512308304" expanded="true" signature="6:52" ph="..." />
-            <marker date="1568512308304" expanded="true" signature="96:3308" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="139:206" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="269:3306" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="336:803" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="877:1158" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="925:1147" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="1229:1343" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="1457:3298" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="1495:1621" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="1678:1804" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="1861:1987" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2044:2170" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2227:2353" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2410:2536" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2593:2719" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2776:2902" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="2959:3085" ph="{...}" />
-            <marker date="1568512308304" expanded="true" signature="3142:3268" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <marker date="1568512840054" expanded="true" signature="6:69" ph="..." />
-            <marker date="1568512840054" expanded="true" signature="113:809" ph="{...}" />
-            <marker date="1568512840054" expanded="true" signature="149:807" ph="{...}" />
-            <marker date="1568512840054" expanded="true" signature="288:356" ph="{...}" />
-            <marker date="1568512840054" expanded="true" signature="429:801" ph="{...}" />
-            <marker date="1568512840054" expanded="true" signature="623:790" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrAccountValidator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -460,20 +409,6 @@
             <marker date="1568514867149" expanded="true" signature="120:183" ph="{...}" />
             <marker date="1568514867149" expanded="true" signature="248:691" ph="{...}" />
             <marker date="1568514867149" expanded="true" signature="311:685" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1568514926657" expanded="true" signature="6:79" ph="..." />
-            <marker date="1568514926657" expanded="true" signature="96:850" ph="{...}" />
-            <marker date="1568514926657" expanded="true" signature="141:848" ph="{...}" />
-            <marker date="1568514926657" expanded="true" signature="198:842" ph="{...}" />
-            <marker date="1568514926657" expanded="true" signature="254:587" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -507,16 +442,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrOutputConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <marker date="1568515363399" expanded="true" signature="6:52" ph="..." />
+            <marker date="1568515363399" expanded="true" signature="96:3315" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="139:206" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="269:3313" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="336:810" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="884:1165" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="932:1154" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="1236:1350" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="1464:3305" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="1502:1628" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="1685:1811" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="1868:1994" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2051:2177" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2234:2360" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2417:2543" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2600:2726" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2783:2909" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="2966:3092" ph="{...}" />
+            <marker date="1568515363399" expanded="true" signature="3149:3275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrOutputConverterIllegibleCells.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding>
             <marker date="1568515177299" expanded="true" signature="6:62" ph="..." />
             <marker date="1568515177299" expanded="true" signature="79:662" ph="{...}" />
             <marker date="1568515177299" expanded="true" signature="131:660" ph="{...}" />
             <marker date="1568515177299" expanded="true" signature="146:387" ph="[...]" />
             <marker date="1568515177299" expanded="true" signature="505:654" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Modules/AccountOcrProcessor/OcrFileProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1568515674696" expanded="true" signature="6:83" ph="..." />
+            <marker date="1568515674696" expanded="true" signature="127:1447" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="163:1445" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="406:524" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="612:1439" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="806:1428" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="998:1107" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="1168:1284" ph="{...}" />
+            <marker date="1568515674696" expanded="true" signature="1305:1414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTests/AccountOcrTests/OcrFileProcessorHappyPath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <marker date="1568515786408" expanded="true" signature="6:93" ph="..." />
+            <marker date="1568515786408" expanded="true" signature="110:1232" ph="{...}" />
+            <marker date="1568515786408" expanded="true" signature="155:1230" ph="{...}" />
+            <marker date="1568515786408" expanded="true" signature="212:1224" ph="{...}" />
+            <marker date="1568515786408" expanded="true" signature="268:942" ph="{...}" />
           </folding>
         </state>
       </provider>
